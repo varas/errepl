@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "psy/psysh": "dev-master",
+        "d11wtq/boris": "dev-master"
+    }
+}
